@@ -8,3 +8,5 @@ Simple Hazlecast based distributed Cache Web App
 	1. testCache/put?key=X&value=Y
 	2. testCache/get?key=X
 	3. testCache/delete?key=X
+
+ - isuruh@wso2.com, isuruh@apache.org
