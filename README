@@ -1,0 +1,10 @@
+Simple Hazlecast based distributed Cache Web App
+================================================
+
+* Uses wso2 implementation of javax cache apis, using Hazlecast
+* Prints results in a simple html page
+* Supported operations: 
+	
+	1. testCache/put?key=X&value=Y
+	2. testCache/get?key=X
+	3. testCache/delete?key=X
