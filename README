@@ -10,3 +10,5 @@ Simple Hazlecast based distributed Cache Web App
 	3. testCache/delete?key=X
 
  - isuruh@wso2.com, isuruh@apache.org
+ 
+ License - Apache 2
